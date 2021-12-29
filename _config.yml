@@ -88,28 +88,28 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?user=Hc4VqyQAAAAJ&hl=pt-BR"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Thiago-Fonseca-2"
+  researchgate     :  "https://www.researchgate.net/profile/Thiago-Fonseca-2"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/thfonseca"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/thnfonseca"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/thnfonseca/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0219-7500"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
