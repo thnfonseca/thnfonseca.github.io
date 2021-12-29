@@ -9,5 +9,6 @@ redirect_from:
 
 
 [__English version__](thnfonseca.github.io/files/paper1.pdf)  
-[__Portuguese version__](thnfonseca.github.io/files/paper1.pdf)  
+[__Portuguese version__](thnfonseca.github.io/files/Fonseca_TN_CV (atualizado 29-12-21).pdf)  
+[Lattes](http://lattes.cnpq.br/0619038644075414)  
 
