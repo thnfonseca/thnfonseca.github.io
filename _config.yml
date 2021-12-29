@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Thiago Fonseca"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Political Scientist"
+  location         : "https://www.google.com/maps/place/FGV+CEPESP/@-23.5586932,-46.6542724,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce594a0f4912cb:0xbe1b49bb90399415!8m2!3d-23.5587153!4d-46.6520756"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?user=Hc4VqyQAAAAJ&hl=pt-BR"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Thiago-Fonseca-2"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "https://www.facebook.com/thfonseca"
   foursquare       :
-  github           : "https://github.com/thnfonseca"
+  github           : "thnfonseca"
   google_plus      :
   keybase          :
   instagram        : "https://www.instagram.com/thnfonseca/"
