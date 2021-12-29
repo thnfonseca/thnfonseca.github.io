@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[__English version__](https://github.com/thnfonseca/thnfonseca.github.io/blob/master/files/paper1.pdf)
+[__Portuguese version__](https://github.com/thnfonseca/thnfonseca.github.io/blob/master/files/paper1.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
