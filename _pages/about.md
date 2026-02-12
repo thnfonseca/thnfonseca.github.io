@@ -16,15 +16,15 @@ FONSECA, Thiago N., and Mauricio Y. Izumi. Audit Risk and Wealth Accumulation: W
 
 Preprints & Working Papers
 ======
-FONSECA, Thiago N. & Avelino Filho, G. (2025). Strategic Staffing in Politics: The Role of Local Brokers and Patronage.
-FONSECA, Thiago N. (2025). Who Leaves and Who Enters? Electoral Bans and Political Corruption. [SSRN 5558198](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558198).
-FONSECA, Thiago N., & de Sousa, L. (2025). Distancing from Corruption-Tainted Parties. [SSRN 5480407](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5480407).
+FONSECA, Thiago N. & Avelino Filho, G. (2025). Strategic Staffing in Politics: The Role of Local Brokers and Patronage.<br>
+FONSECA, Thiago N. (2025). Who Leaves and Who Enters? Electoral Bans and Political Corruption. [SSRN 5558198](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5558198).<br>
+FONSECA, Thiago N., & de Sousa, L. (2025). Distancing from Corruption-Tainted Parties. [SSRN 5480407](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5480407).<br>
 FONSECA, Thiago N., Thomé, D., & Alho Neto, J. (2025). Money Talks? Party Financial Incentives to Promote Underrepresented Groups. Party Financial Incentives to Promote Underrepresented Groups.[SSRN 5499680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5499680).
 
 Previous Publications
 ======
-FONSECA, Thiago N. (2020). Between risks and threats: independence and control of the Federal Audit Court in the 1988 Constituent Assembly. [Opinião Pública](https://www.scielo.br/j/op/a/SVcLfJMgCmmz9VtjCbRJyVv/?format=html&lang=pt).
-FONSECA, Thiago N. (2019). The importance of Federal Audit Court's autonomy for the control of federal public resources transferred to municipalities. [Dados](https://www.scielo.br/j/dados/a/Yp8pqLtjC9HM8y7wX4hJx6p/abstract/?lang=en&stop=next&format=html).
+FONSECA, Thiago N. (2020). Between risks and threats: independence and control of the Federal Audit Court in the 1988 Constituent Assembly. [Opinião Pública](https://www.scielo.br/j/op/a/SVcLfJMgCmmz9VtjCbRJyVv/?format=html&lang=pt).<br>
+FONSECA, Thiago N. (2019). The importance of Federal Audit Court's autonomy for the control of federal public resources transferred to municipalities. [Dados](https://www.scielo.br/j/dados/a/Yp8pqLtjC9HM8y7wX4hJx6p/abstract/?lang=en&stop=next&format=html).<br>
 FONSECA, Thiago N. (2017). Do campaign donations involve future contractual returns? [Revista de Sociologia e Política](https://www.scielo.br/j/rsocp/a/xNGWkYrNGPHGS9dmQcjQNpL/?format=html&lang=pt).
 
 PdH Dissertation
