@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 **Compliance Trade-offs: Bans on Corporate Money and Public-Job Patronage**  
-Ongoing. CEPESP - FGV, IDB Research Network. This study investigates whether the 2015 prohibition of corporate campaign donations in Brazil unintentionally increased the use of public-sector jobs as a substitute for electoral exchange. Using a differences-in-discontinuities (DiDisc) design that combines close-election regression discontinuity with the exogenous 2015 policy reform, the project tests whether mayors became more likely to hire donors and service providers after the ban on corporate money. Additionally, it examines if the presence of independent anti-corruption prosecutors moderates this effect by constraining patronage hiring. The findings aim to highlight how anti-corruption reforms may lead to the evolution of illicit exchanges into new forms when not accompanied by strong oversight mechanisms.  
+Ongoing. _IDB Research Network_.  
+This study investigates whether the 2015 prohibition of corporate campaign donations in Brazil unintentionally increased the use of public-sector jobs as a substitute for electoral exchange. Using a differences-in-discontinuities (DiDisc) design that combines close-election regression discontinuity with the exogenous 2015 policy reform, the project tests whether mayors became more likely to hire donors and service providers after the ban on corporate money. Additionally, it examines if the presence of independent anti-corruption prosecutors moderates this effect by constraining patronage hiring. The findings aim to highlight how anti-corruption reforms may lead to the evolution of illicit exchanges into new forms when not accompanied by strong oversight mechanisms.  
 
 **Anti-corruption policies on the municipal politics**  
 Ongoing. _CEPESP - FGV_, post-doctoral.  
